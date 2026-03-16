@@ -2,12 +2,5 @@
   "payments": [],
   "saldoToSend": [],
   "deposits": [],
-  "purchases": [],
-  "[object Promise]": {
-    "userId": 7882058841,
-    "amount": 5000,
-    "timestamp": 1773644915213,
-    "idTopup": {},
-    "attempts": 0
-  }
+  "purchases": []
 }
