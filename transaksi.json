@@ -32,5 +32,14 @@
     "productName": "bojep",
     "id": "35410b2b29ef0c58",
     "timestamp": "2026-03-16T07:32:06.460Z"
+  },
+  {
+    "userId": 7882058841,
+    "amount": 5000,
+    "type": "purchase",
+    "productId": "0",
+    "productName": "func delay",
+    "id": "ee0a8486881f224a",
+    "timestamp": "2026-03-16T07:37:18.343Z"
   }
 ]
