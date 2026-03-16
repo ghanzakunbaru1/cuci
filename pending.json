@@ -2,12 +2,5 @@
   "payments": [],
   "saldoToSend": [],
   "deposits": [],
-  "purchases": [],
-  "topup-592fcc01-OX4K": {
-    "userId": 7882058841,
-    "amount": 5000,
-    "timestamp": 1773655851852,
-    "idTopup": "topup-592fcc01-OX4K",
-    "processed": false
-  }
+  "purchases": []
 }
