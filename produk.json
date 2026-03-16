@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Premium E-Book",
-    "price": 25000,
+    "name": "bojep",
+    "price": 5000,
     "type": "link",
-    "content": "https://example.com/ebook.pdf",
+    "content": "https://pomf2.lain.la/f/o6rnuqvv.jpg",
     "description": "E-book premium tentang bisnis online",
     "created_at": "2024-01-01T00:00:00.000Z"
   },
   {
     "id": 2,
     "name": "Video Tutorial",
-    "price": 35000,
+    "price": 5000,
     "type": "link",
     "content": "https://youtube.com/playlist?list=xxx",
     "description": "Video tutorial lengkap pemula sampai mahir",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Akses Premium",
-    "price": 50000,
+    "price": 5000,
     "type": "text",
     "content": "Username: user123\nPassword: pass123\nLink: https://example.com/login",
     "description": "Akses premium selama 1 bulan",
