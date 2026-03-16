@@ -5,8 +5,8 @@
   "purchases": [],
   "[object Promise]": {
     "userId": 7882058841,
-    "amount": 5000,
-    "timestamp": 1773644850342,
+    "amount": 10000,
+    "timestamp": 1773644899563,
     "idTopup": {},
     "attempts": 0
   }
