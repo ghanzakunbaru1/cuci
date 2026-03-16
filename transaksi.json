@@ -95,5 +95,14 @@
     "productName": "Akses Premium",
     "id": "93aa08bfbc63cb4e",
     "timestamp": "2026-03-16T07:17:43.792Z"
+  },
+  {
+    "userId": 7882058841,
+    "amount": 50000,
+    "type": "purchase",
+    "productId": "2",
+    "productName": "Akses Premium",
+    "id": "254d8d3d7353d36c",
+    "timestamp": "2026-03-16T07:17:56.651Z"
   }
 ]
