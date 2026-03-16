@@ -23,5 +23,14 @@
     "idTopup": "topup-4394f64d-OX4K",
     "id": "08e2f8e77dfc02a5",
     "timestamp": "2026-03-16T07:31:40.557Z"
+  },
+  {
+    "userId": 7882058841,
+    "amount": 5000,
+    "type": "purchase",
+    "productId": "0",
+    "productName": "bojep",
+    "id": "35410b2b29ef0c58",
+    "timestamp": "2026-03-16T07:32:06.460Z"
   }
 ]
