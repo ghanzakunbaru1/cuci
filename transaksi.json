@@ -6,5 +6,14 @@
     "idTopup": "topup-5bc13fa2-OX4K",
     "id": "749c2ea876d42d9d",
     "timestamp": "2026-03-16T07:29:12.792Z"
+  },
+  {
+    "userId": 7882058841,
+    "amount": 5000,
+    "type": "purchase",
+    "productId": "1",
+    "productName": "Video Tutorial",
+    "id": "507f89cd60a03b0e",
+    "timestamp": "2026-03-16T07:29:45.094Z"
   }
 ]
