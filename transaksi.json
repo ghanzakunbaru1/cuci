@@ -49,5 +49,14 @@
     "idTopup": "topup-592fcc01-OX4K",
     "id": "145f4c3043d070ae",
     "timestamp": "2026-03-16T10:11:37.869Z"
+  },
+  {
+    "userId": 7882058841,
+    "amount": 2500,
+    "type": "purchase",
+    "productId": "1774108378877",
+    "productName": "TEST",
+    "id": "e874baeb1157ac7a",
+    "timestamp": "2026-03-21T15:53:18.571Z"
   }
 ]
