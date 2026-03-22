@@ -2,5 +2,14 @@
   "payments": [],
   "saldoToSend": [],
   "deposits": [],
-  "purchases": []
+  "purchases": [],
+  "topup-ac744ef5-OX4K": {
+    "userId": 7882058841,
+    "amount": 10000,
+    "timestamp": 1774222541955,
+    "idTopup": "topup-ac744ef5-OX4K",
+    "messageId": 1771,
+    "chatId": 7882058841,
+    "status": "PENDING"
+  }
 }
