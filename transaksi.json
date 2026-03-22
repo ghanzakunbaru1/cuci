@@ -66,5 +66,14 @@
     "idTopup": "topup-ac744ef5-OX4K",
     "id": "2a58c6eb58a189d6",
     "timestamp": "2026-03-22T23:36:36.359Z"
+  },
+  {
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 8000,
+    "productName": "RESSELER PANEL",
+    "productId": 1774223455446,
+    "id": "ff4714bdf7a7c25d",
+    "timestamp": "2026-03-22T23:51:13.970Z"
   }
 ]
