@@ -2,5 +2,13 @@
   "payments": [],
   "saldoToSend": [],
   "deposits": [],
-  "purchases": []
+  "purchases": [],
+  "topup-a46edb4e-OX4K": {
+    "userId": 7882058841,
+    "amount": 10000,
+    "timestamp": 1774220519623,
+    "idTopup": "topup-a46edb4e-OX4K",
+    "messageId": null,
+    "status": "PENDING"
+  }
 }
