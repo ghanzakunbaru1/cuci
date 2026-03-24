@@ -1,6 +1,9 @@
-{
-  "payments": [],
-  "saldoToSend": [],
-  "deposits": [],
-  "purchases": []
-}
+[
+  {
+    "trxId": "topup-8c948aa0-OX4K",
+    "userId": 7882058841,
+    "nominal": 1000,
+    "timestamp": 1774395843265,
+    "status": "PENDING"
+  }
+]
