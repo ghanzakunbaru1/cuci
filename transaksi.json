@@ -299,5 +299,14 @@
     "description": "Membeli PANEL unli",
     "status": "success",
     "timestamp": "2026-04-04T10:41:41.464Z"
+  },
+  {
+    "id": 1775740252948,
+    "userId": 7882058841,
+    "type": "deposit",
+    "amount": 100000,
+    "description": "Deposit via QRIS (topup-1adce07d-OX4K)",
+    "status": "success",
+    "timestamp": "2026-04-09T13:10:52.948Z"
   }
 ]
