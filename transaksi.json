@@ -326,5 +326,14 @@
     "description": "Deposit via QRIS (topup-714ea69a-OX4K)",
     "status": "success",
     "timestamp": "2026-04-10T04:40:39.067Z"
+  },
+  {
+    "id": 1775892661483,
+    "userId": 7882058841,
+    "type": "purchase",
+    "amount": 15000,
+    "description": "Membeli RES PANEL",
+    "status": "success",
+    "timestamp": "2026-04-11T07:31:01.483Z"
   }
 ]
