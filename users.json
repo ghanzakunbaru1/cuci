@@ -1,9 +1,31 @@
-[
-  {
-    "id": 7882058841,
-    "username": "Ghanz626",
-    "first_name": "𝗫𝗧𝗥𝗫 || 𝗭𝗩𝗥𝗫 || 𝗚𝗛𝗔𝗡𝗭 ✘ 𝗧𝟱 ✘ 𝗠𝗜𝗘 𝗔𝗬𝗔𝗠",
-    "last_name": "",
-    "joined_at": "2026-03-22T22:22:07.932Z"
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "phone": "081234567890",
+    "poin": 500,
+    "totalTopup": 50000,
+    "memberSince": "16/04/2026",
+    "history": [
+      {
+        "id": 1744851234567,
+        "tanggal": "16/04/2026 14:30:00",
+        "produk": "Top Up Saldo QRIS",
+        "tujuan": "QRIS Payment",
+        "nominal": 50000,
+        "poin": 50,
+        "sn": "topup-8d8b0ac8-OX4K",
+        "type": "topup"
+      }
+    ]
+  },
+  "userbaru": {
+    "username": "userbaru",
+    "password": "pass123",
+    "phone": "081234567891",
+    "poin": 0,
+    "totalTopup": 0,
+    "memberSince": "16/04/2026",
+    "history": []
   }
-]
+}
