@@ -25,5 +25,14 @@
     "description": "Tukar 100 poin",
     "status": "success",
     "timestamp": "2026-04-16T09:39:30.221Z"
+  },
+  {
+    "id": 1776346408420,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 10188,
+    "description": "Membeli Produk DANA",
+    "status": "success",
+    "timestamp": "2026-04-16T13:33:28.420Z"
   }
 ]
