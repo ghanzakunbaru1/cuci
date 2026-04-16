@@ -16,5 +16,14 @@
     "description": "Membeli DANA 10000",
     "status": "success",
     "timestamp": "2026-04-16T07:35:00.000Z"
+  },
+  {
+    "id": 1776332370221,
+    "userId": "admin",
+    "type": "redeem",
+    "amount": 1000,
+    "description": "Tukar 100 poin",
+    "status": "success",
+    "timestamp": "2026-04-16T09:39:30.221Z"
   }
 ]
