@@ -61,5 +61,14 @@
     "description": "Membeli Produk Gopay Customer",
     "status": "success",
     "timestamp": "2026-04-19T14:55:30.652Z"
+  },
+  {
+    "id": 1776639843895,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 2000,
+    "description": "Membeli Produk Gopay Customer",
+    "status": "success",
+    "timestamp": "2026-04-19T23:04:03.895Z"
   }
 ]
