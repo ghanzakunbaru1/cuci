@@ -34,5 +34,14 @@
     "description": "Membeli Produk DANA",
     "status": "success",
     "timestamp": "2026-04-16T13:33:28.420Z"
+  },
+  {
+    "id": 1776574898574,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 1188,
+    "description": "Membeli Produk DANA",
+    "status": "success",
+    "timestamp": "2026-04-19T05:01:38.574Z"
   }
 ]
