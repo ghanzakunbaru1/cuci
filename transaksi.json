@@ -70,5 +70,14 @@
     "description": "Membeli Produk Gopay Customer",
     "status": "success",
     "timestamp": "2026-04-19T23:04:03.895Z"
+  },
+  {
+    "id": 1776856941492,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 99988,
+    "description": "Top Up Top Up Saldo DANA",
+    "status": "success",
+    "timestamp": "2026-04-22T11:22:21.492Z"
   }
 ]
