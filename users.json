@@ -8,6 +8,22 @@
     "memberSince": "16/04/2026",
     "history": [
       {
+        "id": 1776927199971,
+        "tanggal": "23/4/2026, 13.53.19",
+        "produk": "DANA - Top Up Saldo DANA",
+        "tujuan": "089672380803",
+        "nominal": 30038,
+        "jumlahMasuk": 0,
+        "adminFee": 0,
+        "diskon": 50,
+        "totalBayar": 29988,
+        "poin": 0,
+        "sn": "Cek Berkala",
+        "status": "failed",
+        "type": "purchase",
+        "pesanError": "T#1173332085 R#admin_1776927194601 Top Up Saldo DANA 089672380803 akan diproses. Saldo 30.240 - 30.038 = 202 @13:53"
+      },
+      {
         "id": 1776926949368,
         "tanggal": "23/4/2026, 13.49.09",
         "produk": "DANA - Top Up Saldo DANA",
