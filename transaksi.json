@@ -79,5 +79,14 @@
     "description": "Top Up Top Up Saldo DANA",
     "status": "success",
     "timestamp": "2026-04-22T11:22:21.492Z"
+  },
+  {
+    "id": 1776913630249,
+    "userId": "admin",
+    "type": "redeem",
+    "amount": 5000,
+    "description": "Tukar 500 poin",
+    "status": "success",
+    "timestamp": "2026-04-23T03:07:10.249Z"
   }
 ]
