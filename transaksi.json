@@ -88,5 +88,14 @@
     "description": "Tukar 500 poin",
     "status": "success",
     "timestamp": "2026-04-23T03:07:10.249Z"
+  },
+  {
+    "id": 1776916788516,
+    "userId": "admin",
+    "type": "deposit",
+    "amount": 2083,
+    "description": "Deposit QRIS",
+    "status": "success",
+    "timestamp": "2026-04-23T03:59:48.516Z"
   }
 ]
