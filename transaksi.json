@@ -124,5 +124,14 @@
     "description": "Deposit QRIS topup-46655c4a-OX4K",
     "status": "success",
     "timestamp": "2026-04-23T06:51:49.231Z"
+  },
+  {
+    "id": 1776927210724,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 29988,
+    "description": "Gagal: Top Up Saldo DANA - 089672380803",
+    "status": "failed",
+    "timestamp": "2026-04-23T06:53:30.724Z"
   }
 ]
