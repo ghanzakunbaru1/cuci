@@ -151,5 +151,14 @@
     "description": "Beli Top Up Saldo DANA - 089672380803",
     "status": "success",
     "timestamp": "2026-04-24T05:11:37.535Z"
+  },
+  {
+    "id": 1777007567823,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 30188,
+    "description": "Gagal: Top Up Saldo DANA - 089672380803",
+    "status": "failed",
+    "timestamp": "2026-04-24T05:12:47.824Z"
   }
 ]
