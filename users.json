@@ -8,6 +8,22 @@
     "memberSince": "16/04/2026",
     "history": [
       {
+        "id": 1777080338470,
+        "tanggal": "25/4/2026, 08.25.38",
+        "produk": "PLN Prabayar - Token PLN Prabayar",
+        "tujuan": "14481366806",
+        "nominal": 200,
+        "jumlahMasuk": 0,
+        "adminFee": 0,
+        "diskon": 0,
+        "totalBayar": 200,
+        "poin": 0,
+        "sn": "GAGAL",
+        "status": "failed",
+        "type": "purchase",
+        "pesanError": "Saldo tidak cukup! Harga: 200"
+      },
+      {
         "id": 1777007566530,
         "tanggal": "24/4/2026, 12.12.46",
         "produk": "DANA - Top Up Saldo DANA",
