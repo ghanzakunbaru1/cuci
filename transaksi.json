@@ -169,5 +169,14 @@
     "description": "Gagal: Token PLN Prabayar",
     "status": "failed",
     "timestamp": "2026-04-25T01:25:40.091Z"
+  },
+  {
+    "id": 1777258664886,
+    "userId": "admin",
+    "type": "deposit",
+    "amount": 5117,
+    "description": "Deposit QRIS topup-ed7e74dc-OX4K",
+    "status": "success",
+    "timestamp": "2026-04-27T02:57:44.886Z"
   }
 ]
