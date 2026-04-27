@@ -205,5 +205,14 @@
     "description": "Deposit QRIS topup-5829beda-OX4K",
     "status": "success",
     "timestamp": "2026-04-27T05:51:36.834Z"
+  },
+  {
+    "id": 1777269974388,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 10188,
+    "description": "Beli DANA: 10.238",
+    "status": "success",
+    "timestamp": "2026-04-27T06:06:14.388Z"
   }
 ]
