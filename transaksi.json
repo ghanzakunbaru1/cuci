@@ -178,5 +178,14 @@
     "description": "Deposit QRIS topup-ed7e74dc-OX4K",
     "status": "success",
     "timestamp": "2026-04-27T02:57:44.886Z"
+  },
+  {
+    "id": 1777258763976,
+    "userId": "admin",
+    "type": "redeem",
+    "amount": 1000,
+    "description": "Tukar 100 poin",
+    "status": "success",
+    "timestamp": "2026-04-27T02:59:23.976Z"
   }
 ]
