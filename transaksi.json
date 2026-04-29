@@ -241,5 +241,14 @@
     "description": "Beli DANA: 30.238",
     "status": "success",
     "timestamp": "2026-04-29T13:19:05.620Z"
+  },
+  {
+    "id": 1777469287125,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 10188,
+    "description": "Beli DANA: 10.238",
+    "status": "success",
+    "timestamp": "2026-04-29T13:28:07.125Z"
   }
 ]
