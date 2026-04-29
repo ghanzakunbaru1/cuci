@@ -232,5 +232,14 @@
     "description": "Deposit QRIS topup-1fb4be7a-OX4K",
     "status": "success",
     "timestamp": "2026-04-29T13:18:05.722Z"
+  },
+  {
+    "id": 1777468745620,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 30188,
+    "description": "Beli DANA: 30.238",
+    "status": "success",
+    "timestamp": "2026-04-29T13:19:05.620Z"
   }
 ]
