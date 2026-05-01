@@ -259,5 +259,14 @@
     "description": "Beli DANA: 45.238",
     "status": "success",
     "timestamp": "2026-05-01T14:49:29.073Z"
+  },
+  {
+    "id": 1777676860125,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 10700,
+    "description": "Beli ShopeePay: 10.750",
+    "status": "success",
+    "timestamp": "2026-05-01T23:07:40.125Z"
   }
 ]
