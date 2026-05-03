@@ -148,5 +148,14 @@
     "totalTopup": 0,
     "memberSince": "23/4/2026",
     "history": []
+  },
+  "rap": {
+    "username": "rap",
+    "password": "123",
+    "phone": "-",
+    "poin": 0,
+    "totalTopup": 0,
+    "memberSince": "3/5/2026",
+    "history": []
   }
 }
