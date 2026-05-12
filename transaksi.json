@@ -295,5 +295,14 @@
     "description": "Gagal: GoPay: 4.050",
     "status": "failed",
     "timestamp": "2026-05-12T12:34:17.459Z"
+  },
+  {
+    "id": 1778589485352,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 5050,
+    "description": "Beli GoPay: 5.050",
+    "status": "success",
+    "timestamp": "2026-05-12T12:38:05.352Z"
   }
 ]
