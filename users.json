@@ -8,6 +8,22 @@
     "memberSince": "16/04/2026",
     "history": [
       {
+        "id": 1778588212109,
+        "tanggal": "12/5/2026, 19.16.52",
+        "produk": "DANA - DANA: 4.238",
+        "tujuan": "089672380803",
+        "nominal": 4238,
+        "jumlahMasuk": 0,
+        "adminFee": 0,
+        "diskon": 0,
+        "totalBayar": 4238,
+        "poin": 0,
+        "sn": "GAGAL",
+        "status": "failed",
+        "type": "purchase",
+        "pesanError": "Token tidak valid."
+      },
+      {
         "id": 1778588164499,
         "tanggal": "12/5/2026, 19.16.04",
         "produk": "DANA - DANA: 4.238",
