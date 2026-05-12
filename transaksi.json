@@ -277,5 +277,14 @@
     "description": "Beli DANA: 50.238",
     "status": "success",
     "timestamp": "2026-05-03T08:04:41.087Z"
+  },
+  {
+    "id": 1778588167065,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 4238,
+    "description": "Gagal: DANA: 4.238",
+    "status": "failed",
+    "timestamp": "2026-05-12T12:16:07.065Z"
   }
 ]
