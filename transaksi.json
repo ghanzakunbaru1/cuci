@@ -349,5 +349,14 @@
     "description": "Deposit QRIS topup-c5358683-OX4K",
     "status": "success",
     "timestamp": "2026-07-03T13:54:37.785Z"
+  },
+  {
+    "id": 1783660185952,
+    "userId": "halo",
+    "type": "purchase",
+    "amount": 4250,
+    "description": "Beli DANA: 4.250",
+    "status": "success",
+    "timestamp": "2026-07-10T05:09:45.952Z"
   }
 ]
