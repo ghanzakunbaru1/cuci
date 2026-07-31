@@ -8,6 +8,22 @@
     "memberSince": "16/04/2026",
     "history": [
       {
+        "id": 1785499840129,
+        "tanggal": "7/31/2026, 7:10:40 PM",
+        "produk": "GoPay - GoPay: 125.000",
+        "tujuan": "089672380803",
+        "nominal": 126039,
+        "jumlahMasuk": 0,
+        "adminFee": 1039,
+        "diskon": 50,
+        "totalBayar": 125989,
+        "poin": 0,
+        "sn": "GAGAL",
+        "status": "failed",
+        "type": "purchase",
+        "pesanError": "Gagal diproses oleh provider. Saldo Anda dikembalikan."
+      },
+      {
         "id": 1778589255587,
         "tanggal": "12/5/2026, 19.34.15",
         "produk": "GoPay - GoPay: 4.050",
