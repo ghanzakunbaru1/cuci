@@ -8,6 +8,22 @@
     "memberSince": "16/04/2026",
     "history": [
       {
+        "id": 1787275629497,
+        "tanggal": "21/8/2026, 08.27.09",
+        "produk": "DANA - DANA: 1.250",
+        "tujuan": "089672380803",
+        "nominal": 1250,
+        "jumlahMasuk": 0,
+        "adminFee": 0,
+        "diskon": 0,
+        "totalBayar": 1250,
+        "poin": 0,
+        "sn": "GAGAL",
+        "status": "failed",
+        "type": "purchase",
+        "pesanError": "Saldo tidak cukup! Harga: 1.250"
+      },
+      {
         "id": 1785499840129,
         "tanggal": "7/31/2026, 7:10:40 PM",
         "produk": "GoPay - GoPay: 125.000",
