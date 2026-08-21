@@ -403,5 +403,14 @@
     "description": "Gagal: DANA: 1.250",
     "status": "failed",
     "timestamp": "2026-08-21T01:27:12.233Z"
+  },
+  {
+    "id": 1787275704965,
+    "userId": "admin",
+    "type": "purchase",
+    "amount": 1250,
+    "description": "Beli DANA: 1.250",
+    "status": "success",
+    "timestamp": "2026-08-21T01:28:24.965Z"
   }
 ]
